@@ -1,0 +1,6 @@
+../Core/Src/freertos.c:143:6:MX_FREERTOS_Init	1
+../Core/Src/freertos.c:201:6:LKS_TASK	22
+../Core/Src/freertos.c:298:6:ACC_TASK	20
+../Core/Src/freertos.c:355:6:AB_TASK	2
+../Core/Src/freertos.c:390:6:BLUETOOTH_TASK	23
+../Core/Src/freertos.c:508:6:ALC_TASK	6

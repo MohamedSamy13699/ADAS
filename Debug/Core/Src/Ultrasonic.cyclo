@@ -1,0 +1,5 @@
+../Core/Src/Ultrasonic.c:12:6:delay	2
+../Core/Src/Ultrasonic.c:22:6:HAL_TIM_IC_CaptureCallback	7
+../Core/Src/Ultrasonic.c:66:6:HCSR04_Init	1
+../Core/Src/Ultrasonic.c:72:6:HCSR04_Read1	1
+../Core/Src/Ultrasonic.c:82:9:Get_Distance	1
